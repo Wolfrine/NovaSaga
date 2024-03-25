@@ -6,9 +6,9 @@
 ### 1.1	SUPERHUMANS
 
 #### 1.1.1	Categories of Superhumans:
-	Divided into direct energy users and energy users via objects.
-	Direct energy users further categorized into absorbers, emitters, and transmitters.
-	Energy users via objects include physical weapon users and amulet users.
+- Divided into direct energy users and energy users via objects.
+- Direct energy users further categorized into absorbers, emitters, and transmitters.
+- Energy users via objects include physical weapon users and amulet users.
 
 #### 1.1.2	Abilities and Attributes:
 	Superhumans possess extraordinary abilities linked to the manipulation of energy.
