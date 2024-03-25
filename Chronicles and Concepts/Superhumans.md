@@ -37,7 +37,7 @@ They work secretly to improve the world's lifestyle and protect humanity, operat
 - These abilities are either inherent or facilitated through artifacts and tools.
 
 ### 1.3	Origins and Purpose:
-- Superhumans emerged from the understanding and harnessing of human potential, particularly the manipulation of electromagnetic energy.
+- Superhumans emerged from the understanding and harnessing of human potential, particularly the manipulation of energy.
 - They play crucial roles in shaping the world, influencing events, and participating in conflicts.
 
 ### 1.4	Diversity and Complexity:
