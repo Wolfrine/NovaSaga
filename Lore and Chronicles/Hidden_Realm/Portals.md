@@ -14,4 +14,4 @@ Portals are rare and powerful means of transportation between realms in the worl
 
 5. **Training Centers:** Near each portal, there are facilities such as hotels, rest areas, and training centers to support travelers in preparing for portal journeys.
 
-Overall, portals are a crucial aspect of transportation in your world, offering a glimpse into the advanced technology and mysticism that define it.
+Overall, portals are a crucial aspect of transportation in world, offering a glimpse into the advanced technology and mysticism that define it.
