@@ -1,6 +1,6 @@
 ## Summary: Portals in the World
 
-Portals are rare and powerful means of transportation between realms in the world you're creating. They are created and controlled by advanced beings known as extraterrestrial radiants. These portals are not easily accessible, and travelers must undergo rigorous training and testing before being deemed fit to use them.
+Portals are rare and powerful means of transportation between realms in the world. They are created and controlled by advanced beings known as extraterrestrial radiants. These portals are not easily accessible, and travelers must undergo rigorous training and testing before being deemed fit to use them.
 
 ### Key Points:
 
