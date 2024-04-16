@@ -9,4 +9,4 @@
 7. Upon returning home, they find out about the global permanent electricity disruption, still trying to digest what they've seen.
 8. They begin assisting with community services in a world in chaos, where they meet the luminary again, who introduces them to the hidden realm.
 9. They travel with the luminary to one of the cities, where they start their training and learn about the upcoming war.
-10. The final showdown.
+10. The final confrontation ensues, with the friends, alongside luminaries and allied forces, facing off against the dark forces in a decisive battle for the fate of the world.
