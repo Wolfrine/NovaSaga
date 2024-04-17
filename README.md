@@ -1,10 +1,8 @@
-
-
-Enter a world plunged into darkness, where the very fabric of society has been torn asunder by a global electricity outage. As chaos reigns and civilization teeters on the brink of collapse, a group of friends unwittingly stumbles into the heart of a hidden realm, where ancient secrets and unimaginable powers lie dormant.
+* Enter a world plunged into darkness, where the very fabric of society has been torn asunder by a global electricity outage. As chaos reigns and civilization teeters on the brink of collapse, a group of friends unwittingly stumbles into the heart of a hidden realm, where ancient secrets and unimaginable powers lie dormant.
 
 Joined by a luminary protector, they journey through realms both seen and unseen, their lives intertwined with destiny as they uncover the truth behind the darkness threatening their world. With each step, they face perilous challenges and uncover long-buried secrets, racing against time to unravel the mysteries that hold the key to humanity's survival.
 
-In a final showdown against the forces of darkness, they must confront their fears and embrace their newfound abilities, for only together can they hope to bring light to a world shrouded in shadow. Prepare to embark on an epic journey of discovery, where courage, friendship, and the power of the human spirit will be put to the ultimate test.
+In a final showdown against the forces of darkness, they must confront their fears and embrace their newfound abilities, for only together can they hope to bring light to a world shrouded in shadow. Prepare to embark on an epic journey of discovery, where courage, friendship, and the power of the human spirit will be put to the ultimate test.*
 
 
 
