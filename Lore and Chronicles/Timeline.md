@@ -1,6 +1,6 @@
 # Feature Events Timeline
 
-## Create of secret world
+## Creation of secret world
 
 The Ascendants, enlightened beings with advanced consciousness control, recognized the potential dangers of widespread knowledge about superhuman abilities. They feared that if humanity at large were to become aware of these powers, it could lead to corruption and chaos. To protect against this threat, they decided to keep the existence of superhumans hidden and established secret realms where they could live undetected.
 
