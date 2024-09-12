@@ -27,6 +27,9 @@ This concept introduces a scientifically intriguing basis for the abilities of t
    - **Consent and Invasion of Privacy**: The ability to read or influence others’ frequencies raises ethical questions about privacy and consent. There could be laws or codes among Luminaries to regulate such practices.
    - **Power Dynamics**: Those with greater mastery of frequency manipulation could hold significant power, leading to potential conflicts or societal structures based on one’s ability to manipulate these universal frequencies.
 
+### Conclusion:
+This concept adds a deeply scientific and philosophical layer to the abilities in *"Radiant Luminaries."* By tying superhuman abilities to the manipulation of universal frequencies, you create a system that feels both plausible and richly complex. The idea that the brain can act as both a sonar and a manipulator of these frequencies offers endless possibilities for how these powers manifest, evolve, and interact within your world. This approach also allows for intricate storytelling, where the mastery of these abilities is as much about intellectual and emotional development as it is about raw power. 
+
 
 # Comparision
 The concept of everything in the universe having a frequency, with the brain or mind being able to perceive and manipulate these frequencies, is not unique to your novel but is relatively rare and has been explored in various forms across different genres. Here’s where you might see similar concepts:
@@ -55,6 +58,3 @@ The concept of everything in the universe having a frequency, with the brain or 
 
 ### Conclusion:
 While your concept shares similarities with other works, especially in the realms of telepathy, energy manipulation, and frequency healing, it’s not a direct copy of any existing system. The idea of using the brain as a sonar to emit and manipulate frequencies in such a detailed, scientifically grounded way is relatively unique and provides a fresh take on superhuman abilities. It blends real-world physics, alternative medicine concepts, and speculative fiction into a cohesive system that stands out in its originality while drawing on familiar themes from science fiction and fantasy.
-
-### Conclusion:
-This concept adds a deeply scientific and philosophical layer to the abilities in *"Radiant Luminaries."* By tying superhuman abilities to the manipulation of universal frequencies, you create a system that feels both plausible and richly complex. The idea that the brain can act as both a sonar and a manipulator of these frequencies offers endless possibilities for how these powers manifest, evolve, and interact within your world. This approach also allows for intricate storytelling, where the mastery of these abilities is as much about intellectual and emotional development as it is about raw power.
