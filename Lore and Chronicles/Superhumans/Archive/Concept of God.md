@@ -1,3 +1,37 @@
+# Oldest reference
+
+The oldest references to a concept of God or gods come from ancient civilizations, many of which date back thousands of years. The earliest known references to deities or divine beings are found in these ancient texts and archaeological discoveries:
+
+### 1. **Göbekli Tepe (circa 9600 BCE)**:
+   - **Location**: Southeastern Turkey.
+   - **Significance**: Göbekli Tepe is one of the oldest known religious sites in the world. The site includes large stone pillars arranged in circles, many of which are adorned with carvings of animals and possibly symbolic representations. While there are no written records from this time, the monumental nature of the site suggests it was used for some form of ritual or worship, possibly indicating an early belief in divine beings or forces.
+
+### 2. **Sumerian Civilization (circa 3500 BCE)**:
+   - **Texts**: The Sumerians, one of the earliest known civilizations, produced some of the oldest written records of deities. The **Enuma Elish**, a Babylonian creation myth that likely has roots in older Sumerian traditions, describes a pantheon of gods who create the world and humanity.
+   - **Gods**: Some of the earliest deities from this region include Anu (the sky god), Enlil (god of wind), and Inanna (goddess of love and war). The Sumerians believed in a pantheon of gods who controlled various aspects of the natural world and human society.
+
+### 3. **Ancient Egyptian Civilization (circa 3100 BCE)**:
+   - **Gods**: The earliest references to Egyptian deities come from predynastic Egypt, around 3100 BCE. The gods of ancient Egypt, such as Ra (the sun god), Osiris (god of the afterlife), and Isis (goddess of magic and motherhood), are among the oldest known divine figures.
+   - **Pyramid Texts**: These are some of the oldest religious texts in the world, found in the pyramids of Egypt and dating back to around 2400–2300 BCE. They include references to gods and the afterlife, indicating a well-developed belief system.
+
+### 4. **Indus Valley Civilization (circa 2500 BCE)**:
+   - **Artifacts**: The Indus Valley Civilization, located in what is now Pakistan and northwest India, produced artifacts such as seals and figurines that suggest the worship of deities or sacred symbols. Some of these artifacts, like the "Pashupati seal," may represent early forms of Hindu deities, such as Shiva.
+   - **Script**: The Indus script, which remains undeciphered, is found on these artifacts, and it is speculated that it might contain references to religious beliefs or deities.
+
+### 5. **Rigveda (circa 1500–1200 BCE)**:
+   - **Texts**: The Rigveda is one of the oldest known religious texts in the world, originating in ancient India. It contains hymns dedicated to various deities, such as Agni (god of fire), Indra (god of thunder), and Varuna (god of water). The Rigveda reflects an early form of Vedic religion, which later evolved into Hinduism.
+
+### 6. **The Epic of Gilgamesh (circa 2100 BCE)**:
+   - **Texts**: While the Epic of Gilgamesh is primarily a literary work, it contains references to the gods worshipped in Mesopotamia. The epic includes deities like Anu, Ishtar, and Enlil, and it explores themes of divine intervention, mortality, and the relationship between humans and the gods.
+
+### 7. **Cave Paintings and Ancient Symbols (circa 30,000 BCE and earlier)**:
+   - **Significance**: While not directly referencing a "god," some of the oldest cave paintings and carvings, such as those found in the Chauvet Cave in France, may represent early human attempts to connect with or depict spiritual beings, ancestors, or natural forces. These images suggest that early humans may have had beliefs in spirits or deities associated with animals, natural elements, or the afterlife.
+
+### Conclusion:
+The concept of deities and divine beings has deep roots in human history, with references and evidence found in various ancient civilizations. The oldest references are often associated with natural forces or anthropomorphic deities who were believed to control the world and human destiny. As civilizations developed writing systems, these beliefs became more formalized, leading to the creation of some of the earliest known religious texts and myths.
+
+# Impact
+
 This concept presents a fascinating and alternative interpretation of the idea of God, rooted in the idea that collective human belief and thought have created a tangible frequency or presence that is experienced as "God." Here's how this could be explained:
 
 ### 1. **Collective Consciousness and Thought Frequencies**:
