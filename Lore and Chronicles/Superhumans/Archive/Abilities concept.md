@@ -88,3 +88,36 @@ Certainly! Let’s compare the *"Radiant Luminaries"* system from your novel wit
 
 ### Summary of the Comparison:
 Your novel *"Radiant Luminaries"* aligns with several of the 20 patterns of magic, particularly those involving **inherent abilities, structured training, and the use of objects to enhance powers**. It also shares elements with **technological enhancement, mental control, and the importance of lineage**. However, it differs from more mystical, nature-based, or chaotic systems, favoring a **scientific and structured approach** to superhuman abilities. This makes your world unique by combining the depth of a well-defined magic system with the realism and complexity of scientific principles.
+
+
+# Description
+
+Explaining how frequency, vibration, or energy can be felt and altered can be approached from both a scientific and metaphysical perspective, especially within the context of your story. Here’s a breakdown that could fit into the narrative of *Radiant Luminaries*:
+
+### 1. **Understanding Frequency/Vibration/Energy**:
+   - **Basic Concept**: At its core, frequency refers to the rate at which a wave or vibration occurs. Everything in the universe, from light and sound to matter and thought, operates at a certain frequency. Vibration is the physical manifestation of frequency, while energy is the force or power that drives these vibrations.
+   - **Cosmic Frequency**: In your story, the universe itself operates on a set of fundamental frequencies. These frequencies form the foundation of reality, governing everything from the behavior of atoms to the flow of time. The Luminaries, with their advanced understanding, are attuned to these frequencies and can manipulate them.
+
+### 2. **How Frequency is Felt**:
+   - **Physical Sensations**: Frequencies can be felt in various ways, depending on their nature. For example, low frequencies might be experienced as a deep rumble or a throbbing sensation, while higher frequencies could manifest as a tingling or a buzzing. Characters might feel a change in frequency as a shift in temperature, pressure, or even a change in the rhythm of their heartbeat.
+   - **Emotional Resonance**: Frequencies also resonate emotionally. A harmonious frequency might evoke feelings of peace, calm, or joy, while a discordant frequency could cause discomfort, anxiety, or fear. In your story, characters might perceive the presence of a Luminary or artifact through an inexplicable sense of well-being or unease, depending on the nature of the energy being emitted.
+   - **Intuitive Perception**: Some characters, particularly those who are more attuned to the cosmic frequencies, might perceive them as colors, sounds, or even scents that others cannot detect. For example, a character might "see" a person’s energy as a certain color or hear a faint, otherworldly melody that corresponds to their emotional state.
+
+### 3. **How Frequency is Altered**:
+   - **Mental Focus**: The Luminaries can alter frequencies through intense mental focus. By concentrating on a specific frequency, they can either amplify it or dampen it, affecting the surrounding environment. For example, by tuning into the frequency of heat, a Luminary might increase the temperature in an area or even start a fire.
+   - **Resonance**: Resonance is a key concept in altering frequencies. When a Luminary matches their own frequency to that of another object or being, they can create a resonance effect, amplifying the power of that frequency. This could be used to heal, by resonating with the frequency of healthy cells, or to destroy, by resonating with a frequency that causes structural instability.
+   - **Artifacts and Objects**: Certain objects, particularly the artifacts in your story, have been charged with specific frequencies over centuries. These artifacts can be used to focus or channel energy, allowing even those with little innate ability to alter frequencies. A character might use an artifact to amplify their own energy, giving them temporary access to powers they wouldn't otherwise possess.
+   - **Rituals and Mantras**: In your story, altering frequencies might also involve rituals, mantras, or specific physical actions. These practices could help focus the mind and body, allowing characters to connect with and manipulate the cosmic frequencies. For example, chanting a certain mantra might align a character's internal frequency with that of the universe, granting them insight or power.
+
+### 4. **Consequences of Altering Frequencies**:
+   - **Balance and Harmony**: Altering frequencies isn’t without risk. If done improperly, it could cause imbalances in the environment or in the person attempting to make the change. For example, trying to force a frequency change might lead to physical exhaustion, mental strain, or even damage to the surrounding area.
+   - **Corruption and Decay**: Negative or discordant frequencies can corrupt or decay what they touch. A character who allows their frequency to become corrupted by negative emotions might find themselves spreading disease, causing plants to wither, or even turning others against them through subtle, unconscious influence.
+   - **Frequency Shields**: To protect themselves, characters might learn to create frequency shields, barriers that prevent their personal frequency from being altered by external forces. These shields could be a mental construct, an artifact's power, or a combination of both.
+
+### 5. **Narrative Applications**:
+   - **Detection of Energy**: Characters might be able to sense when a frequency is out of balance, like detecting a "wrongness" in the air. This could serve as a warning that something is amiss, such as the presence of evil or a disturbance in the natural order.
+   - **Healing and Harm**: By adjusting the frequency of a wound or illness, a character might speed up healing, restore vitality, or, conversely, cause harm by disrupting the body's natural frequencies.
+   - **Communication**: Advanced beings might communicate with each other or with certain artifacts through frequency. This could involve telepathy, sending thoughts through specific frequencies, or even tuning into the "echoes" left by others in the environment.
+
+### Conclusion:
+In your story, frequency, vibration, and energy are fundamental forces that can be felt, altered, and manipulated in various ways. Characters who are attuned to these forces can sense them through physical sensations, emotional resonance, or intuitive perception. They can alter these frequencies through mental focus, resonance, rituals, and artifacts, affecting both the physical and metaphysical realms. However, such powers come with risks, as imbalances can lead to unintended consequences, making the control of frequency a powerful but potentially dangerous ability in your narrative.
