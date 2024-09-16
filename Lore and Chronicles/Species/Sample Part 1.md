@@ -39,7 +39,7 @@ Let's now create two new species, one caring and one violent, using a realistic 
 
 #### 1. **Terrapedes (Caring Species)**
 
-![plot](/Terrapedes.webp)
+![plot]([/Terrapedes.webp](https://raw.githubusercontent.com/Wolfrine/NovaSaga/main/Lore%20and%20Chronicles/Species/Terrapedes.webp))
 
 - **Origin**: These species evolved from a prehistoric insect-like creature that lived in underground caverns near geothermal springs.
   
