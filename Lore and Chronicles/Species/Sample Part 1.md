@@ -62,6 +62,9 @@ Let's now create two new species, one caring and one violent, using a realistic 
 ---
 
 #### 2. **Shardclaws (Violent Species)**
+
+![/Shardclaws.webp](https://github.com/Wolfrine/NovaSaga/blob/main/Lore%20and%20Chronicles/Species/Shardclaw.webp)
+
 - **Origin**: Evolved from a prehistoric flightless bird species that lived in harsh, resource-scarce environments, resembling early theropods (dinosaur ancestors of birds).
 
 - **Early Ancestors**:
