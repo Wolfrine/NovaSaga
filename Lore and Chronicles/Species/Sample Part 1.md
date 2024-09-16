@@ -38,6 +38,9 @@ To develop realistic species based on evolutionary patterns, let's first look at
 Let's now create two new species, one caring and one violent, using a realistic evolutionary model.
 
 #### 1. **Terrapedes (Caring Species)**
+
+![plot](/Terrapedes.webp)
+
 - **Origin**: These species evolved from a prehistoric insect-like creature that lived in underground caverns near geothermal springs.
   
 - **Early Ancestors**:
