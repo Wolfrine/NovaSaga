@@ -10,7 +10,7 @@ Some artifacts are energized by Luminaries. Others may gather impressions slowly
 
 In balanced hands, a charged object may stabilize, heal, protect, or amplify positive resonance. In corrupted hands, the same class of object may spread fear, decay, manipulation, or imbalance.
 
-Sacred symbols and relics may act as containers of reverence. Their strength may come less from the object alone than from repeated attention, vow, memory, grief, hope, or disciplined use.
+Some sacred symbols and relics may gather force through repeated attention, vow, memory, grief, hope, or disciplined use. Whether this makes them artifacts in their own right remains uncertain.
 
 ## Disputed
 
@@ -18,14 +18,14 @@ Specific amulets, portal suits, travel aids, and saint-like relic stones are pre
 
 Some accounts make artifacts central to travel and final-war strategy. Others treat them as rare supports rather than the core of the conflict.
 
-It remains disputed whether religious relics are Luminary-made, human-made, charged by collective belief, or altered by later corruption.
+It remains disputed whether religious relics are Luminary-made, human-made, charged by collective belief, or only mistaken for artifacts by later communities.
 
 ## Unresolved
 
 - Whether ordinary humans can use artifacts without training remains unknown.
 - The proper test for safe handling remains unknown.
 - The rarity of artifacts has not been fixed.
-- Whether sacred symbols can become dangerous through corrupted reverence remains untested.
+- Whether sacred symbols can become dangerous through corrupted belief or misused reverence remains untested.
 
 ## Source Evidence
 

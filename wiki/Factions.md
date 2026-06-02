@@ -14,7 +14,7 @@ Luminaries may be few in the present age, regionally dispersed, and forced into 
 
 Dark beings may not be wholly separate from humanity. Some records describe them as corrupted human forms that can be weakened, bound, or healed rather than destroyed.
 
-Some accounts say Luminaries shaped context rather than command. They may have seeded or guarded symbols, rituals, sacred places, vows, festivals, and moral stories so that human minds could move toward restraint without receiving dangerous mechanical knowledge too early.
+Some accounts say Luminaries shaped context rather than command. They may have used, preserved, or quietly guarded symbols, rituals, sacred places, vows, festivals, and moral stories so that human minds could move toward restraint without receiving dangerous mechanical knowledge too early.
 
 ## Disputed
 

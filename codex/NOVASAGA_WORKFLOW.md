@@ -43,10 +43,11 @@ The active wiki should help agents reason about story direction. It should not p
 2. Use the lore-curator skill to identify durable concepts.
 3. Update existing wiki pages first.
 4. Create new wiki pages only when an idea is stable and recurring.
-5. Label continuity status as `Canon`, `Provisional`, `Candidate`, `Open question`, or `Deprecated`.
+5. Use internal continuity judgment, then express active wiki status as `Known`, `Suspected`, `Disputed`, or `Unresolved`.
 6. Use inline wiki-style links inside natural sentences.
 7. Add source notes pointing back to `raw/` or archive files.
-8. Keep technical/Codex details in `codex/`, not the creative wiki.
+8. Update `raw/CURATION_LEDGER.md` so each current raw file lists status, last curated commit if known or `TBD`, target wiki pages, and notes.
+9. Keep technical/Codex details in `codex/`, not the creative wiki.
 
 ## Do Not
 

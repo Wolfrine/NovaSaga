@@ -78,10 +78,11 @@ The active wiki should sound like a clear archivist's record, not a marketing pa
 5. Create a new page only when the concept is stable, recurring, and likely to be linked from several places.
 6. Use inline wiki-style links in natural sentences.
 7. Add source references to the page section that used the material.
-8. Update `wiki/Home.md` only when the project map materially changes.
-9. Preserve uncertainty and contradictions.
-10. Keep prose drafts and long legacy passages out of the active wiki.
-11. Rewrite planning-language findings into lore-record language before saving active wiki pages.
+8. Update `raw/CURATION_LEDGER.md` so every current raw file has a status, last curated commit if known or `TBD`, target wiki pages, and notes.
+9. Update `wiki/Home.md` only when the project map materially changes.
+10. Preserve uncertainty and contradictions.
+11. Keep prose drafts and long legacy passages out of the active wiki.
+12. Rewrite planning-language findings into lore-record language before saving active wiki pages.
 
 ## Linking Rules
 

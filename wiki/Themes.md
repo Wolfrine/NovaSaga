@@ -14,9 +14,9 @@ Belief and perception may affect what hidden forces can do openly. This may expl
 
 Darkness is not always described as pure evil. Some records treat dark beings as corrupted, wounded, or transformed human forms, leaving open the possibility of binding, healing, or recovery.
 
-Sacred traditions may function as contextual guidance. In this reading, prayers, vows, festivals, taboos, relics, and moral stories guide attention and conduct without exposing the full mechanism of consciousness and resonance.
+Some sacred traditions may function as contextual guidance. In this reading, prayers, vows, festivals, taboos, relics, and moral stories guide attention and conduct without exposing the full mechanism of consciousness and resonance.
 
-Dogma may be a degraded form of symbolic guidance: a path originally meant to restrain and orient the mind, later hardened into control, hierarchy, or fear.
+Dogma may be a degraded form of symbolic guidance: a path that once restrained and oriented the mind, later hardened into control, hierarchy, or fear. Other accounts leave dogma as ordinary human corruption rather than Luminary failure.
 
 ## Unresolved
 
