@@ -72,17 +72,36 @@ The active wiki should sound like a clear archivist's record, not a marketing pa
 ## Raw-To-Wiki Workflow
 
 1. Read the raw note or archive source fully enough to understand context.
-2. Identify durable story concepts, not every detail.
-3. Search existing wiki pages before creating new pages.
-4. Update existing pages first.
-5. Create a new page only when the concept is stable, recurring, and likely to be linked from several places.
-6. Use inline wiki-style links in natural sentences.
-7. Add source references to the page section that used the material.
-8. Update `raw/CURATION_LEDGER.md` so every current raw file has a status, last curated commit if known or `TBD`, target wiki pages, and notes.
-9. Update `wiki/Home.md` only when the project map materially changes.
-10. Preserve uncertainty and contradictions.
-11. Keep prose drafts and long legacy passages out of the active wiki.
-12. Rewrite planning-language findings into lore-record language before saving active wiki pages.
+2. Preserve the user's thought-chain before applying curator classification. Do not soften, downgrade, reinterpret, or scatter the central intent on your own.
+3. Identify durable story concepts, not every detail.
+4. Search existing wiki pages before creating new pages.
+5. Update existing pages first.
+6. Create a new page only when the concept is stable, recurring, and likely to be linked from several places.
+7. Use inline wiki-style links in natural sentences.
+8. Add source references to the page section that used the material.
+9. Update `raw/CURATION_LEDGER.md` so every current raw file has a status, last curated commit if known or `TBD`, target wiki pages, and notes.
+10. Update `wiki/Home.md` only when the project map materially changes.
+11. Preserve uncertainty and contradictions, but only mark uncertainty where the source itself is uncertain or conflicts with another active record.
+12. Keep prose drafts and long legacy passages out of the active wiki.
+13. Rewrite planning-language findings into lore-record language before saving active wiki pages.
+
+## Authorial Intent Guardrail
+
+Raw notes are not merely a supply of claims to downgrade into `Suspected` and `Disputed` lines. First identify the author's core intent and keep that intent visible as a coherent record.
+
+Do:
+
+- keep the central idea together when splitting it would weaken its force;
+- preserve causal chains, metaphors, and stated reasons when they are the point of the note;
+- mark only the source's own questions as uncertain;
+- distinguish uncertain scope from uncertain principle.
+
+Do not:
+
+- replace a direct user premise with generic phrasing such as "some accounts say" unless the source itself frames the premise as hearsay;
+- flatten a specific mechanism into vague tradition language;
+- downgrade a stated premise because future continuity might be easier if it stayed vague;
+- turn every sentence touching religion, cosmology, or metaphysics into a disputed classification.
 
 ## Linking Rules
 

@@ -6,6 +6,8 @@ The records describe a world in which a rare cosmic or planetary disturbance dis
 
 The Luminary tradition is hidden, restrained, and concerned with balance. Its members do not appear in the records as conquerors or public miracle-workers. They are associated instead with perception, discipline, aura, resonance, and careful intervention.
 
+Luminary concealment is not only a response to fear or disbelief. The religion-context record preserves a stricter reason: direct truth can change the mind receiving it. Before humanity is ready, open knowledge that consciousness, intent, emotion, belief, and inner alignment affect the world can turn consciousness into a weapon.
+
 Dark forces are linked with fear, anger, decay, corruption, and accumulated negative energy. They threaten both the visible world and the hidden sanctuaries.
 
 ## Suspected
@@ -14,15 +16,13 @@ Several accounts begin with ordinary companions drawn into a weakened hidden rea
 
 Luminary power appears to depend on restraint and inner alignment. The stronger accounts describe subtle influence over emotion, environment, perception, and charged matter rather than spectacle.
 
-Some later accounts interpret Luminary secrecy as containment rather than mere fear of disbelief. In this reading, open teaching that consciousness, intent, emotion, belief, and inner alignment affect the world might have made belief easier to weaponize before humanity had the discipline to bear it.
-
 ## Disputed
 
 The number and composition of the first companion group remain unsettled. Older notes often mention four or five boys, but no stable names or lineages have been recorded.
 
 The role of portals, extraterrestrial radiants, and interplanetary contact remains outside the central record. These may belong to later accounts, symbolic traditions, or deprecated expansions.
 
-The religious dimension remains unsettled. Some accounts treat sacred traditions as compressed contextual guidance; others leave religion as human response, misunderstanding, higher contact, invention, or later corruption of older symbols.
+The scope of the religious dimension remains unsettled. The core record holds that Luminaries guide through indirect context-setting, using symbol, story, ritual, vow, taboo, festival, relic, place, and moral teaching to shape responsibility without exposing the full machinery. What remains disputed is whether this touched all religions, selected traditions, symbolic practices only, higher entities, human inventions, or mixed histories.
 
 ## Source Evidence
 

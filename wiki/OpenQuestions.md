@@ -28,13 +28,14 @@
 
 - **Unresolved:** Whether disbelief literally weakens powers or only forces secrecy.
 - **Unresolved:** How much scientific language should remain around aura, frequency, resonance, and energy.
-- **Disputed:** Whether Luminaries influenced human ideas of divinity or only selected symbolic traditions.
-- **Unresolved:** Whether direct knowledge of consciousness affecting reality changes the danger of that reality.
+- **Known:** Direct revelation can become dangerous because knowledge of consciousness, intent, emotion, belief, and inner alignment can change how humans use those forces.
+- **Unresolved:** How exactly disbelief, fear, reverence, and collective attention interact with the unseen order.
 
 ## Sacred Traditions
 
-- **Disputed:** Whether Luminaries seeded all religions, selected traditions, symbolic practices only, or none directly.
-- **Suspected:** Some sacred forms may have worked as compressed guidance: ritual, vow, story, taboo, festival, relic, and place as context rather than explanation.
+- **Known:** Luminaries guide through indirect context-setting because direct truth can make humans resist, distort, or weaponize consciousness.
+- **Known:** Sacred forms can work as compressed guidance: ritual, vow, story, taboo, festival, relic, and place as context rather than full explanation.
+- **Disputed:** Whether Luminaries seeded all religions, selected traditions, symbolic practices only, later guarded human traditions, or participated in mixed histories.
 - **Unresolved:** Whether gods are symbolic containers, misunderstood Luminaries, higher entities, human inventions, or different things in different traditions.
 - **Disputed:** Whether dogma is degraded symbolic guidance, human corruption, dark influence, or a mixture.
 - **Unresolved:** How much of the religion-Luminary relationship is known to modern Luminaries.

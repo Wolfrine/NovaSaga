@@ -6,6 +6,10 @@ Living beings carry or emit an energetic and emotional signature. Older accounts
 
 Luminary practice begins with perception and self-regulation. Power is not treated as a simple weapon but as disciplined relation between mind, emotion, body, environment, and matter.
 
+Direct knowledge of the unseen order is itself dangerous. When humans learn too plainly that consciousness, intent, emotion, belief, and inner alignment affect the world, the knowing can become part of the mechanism: belief can be weaponized, symbols can become instruments of rule, frightened crowds can poison the world with fear, and reverence can harden into domination.
+
+The record preserves practical signs of this order: a calm mind can heal a room, a fearful crowd can poison one, a grieving house can hold sorrow for years, and a greedy ruler can turn symbols into chains.
+
 Negative emotional or environmental energy can accumulate. Such accumulation affects people, places, artifacts, and the strength of dark forces.
 
 ## Suspected
@@ -16,19 +20,13 @@ Disbelief may limit open Luminary action. The mechanism remains unclear: it may 
 
 Training appears to begin with sensing one's own field before influencing external objects, weather, emotion, or living systems.
 
-Unstable consciousness may distort the world it touches. The newer account suggests that fear, grief, greed, reverence, and collective attention can leave effects on rooms, houses, crowds, symbols, and places over time.
-
-Direct revelation of the mechanism may itself change the danger around the mechanism. If people know belief can affect reality, belief may become easier to exploit by rulers, cults, frightened crowds, and ambitious minds.
-
 ## Disputed
 
 Named ability ladders such as Aura Whisper, Thermal Drift, Cellular Chorus, and Harmonic Convergence survive in older notes. They are not yet accepted as formal terminology.
 
 Portals controlled by extraterrestrial radiants remain outside the settled cosmology.
 
-The claim that Luminaries shaped some human sacred traditions is preserved as a disputed tradition.
-
-Whether religion is symbolic guidance, partial misunderstanding, human invention, Luminary containment, or all of these in different places remains unsettled.
+Whether religion is symbolic guidance, partial misunderstanding, human invention, Luminary containment, higher contact, or all of these in different places remains unsettled.
 
 ## Source Evidence
 
