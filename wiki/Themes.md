@@ -14,11 +14,17 @@ Belief and perception may affect what hidden forces can do openly. This may expl
 
 Darkness is not always described as pure evil. Some records treat dark beings as corrupted, wounded, or transformed human forms, leaving open the possibility of binding, healing, or recovery.
 
+Sacred traditions may function as contextual guidance. In this reading, prayers, vows, festivals, taboos, relics, and moral stories guide attention and conduct without exposing the full mechanism of consciousness and resonance.
+
+Dogma may be a degraded form of symbolic guidance: a path originally meant to restrain and orient the mind, later hardened into control, hierarchy, or fear.
+
 ## Unresolved
 
 No stable record yet determines how openly the accounts should address divinity, belief, or the possibility that Luminaries influenced older religious traditions.
 
 The balance between scientific language and mystical language remains unsettled in the energy system.
+
+It remains unclear whether corrupted belief can produce dark beings directly, weaken communities indirectly, or merely provide cover for darker forces already present.
 
 ## Source Evidence
 
@@ -26,3 +32,4 @@ The balance between scientific language and mystical language remains unsettled 
 - `archive/legacy-before-restart-2026-06-02/Novel_shaping.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_raw.md`
 - `meta/ToneAndStyle.md`
+- `raw/2026-06-02-luminaries-religion-context-guidance.md`

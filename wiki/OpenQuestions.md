@@ -29,6 +29,17 @@
 - **Unresolved:** Whether disbelief literally weakens powers or only forces secrecy.
 - **Unresolved:** How much scientific language should remain around aura, frequency, resonance, and energy.
 - **Disputed:** Whether Luminaries influenced human ideas of divinity.
+- **Unresolved:** Whether direct knowledge of consciousness affecting reality changes the danger of that reality.
+
+## Sacred Traditions
+
+- **Disputed:** Whether Luminaries seeded all religions, selected traditions, symbolic practices only, or none directly.
+- **Suspected:** Some sacred forms may have worked as compressed guidance: ritual, vow, story, taboo, festival, relic, and place as context rather than explanation.
+- **Unresolved:** Whether gods are symbolic containers, misunderstood Luminaries, higher entities, human inventions, or different things in different traditions.
+- **Disputed:** Whether dogma is degraded symbolic guidance, human corruption, dark influence, or a mixture.
+- **Unresolved:** How much of the religion-Luminary relationship is known to modern Luminaries.
+- **Unresolved:** How much should be revealed to the first companions during early training.
+- **Disputed:** Whether corrupted religion or misused reverence can generate dark beings, feed existing dark beings, or only weaken communities.
 
 ## Portals and Wider Worlds
 
@@ -39,5 +50,6 @@
 ## Source Evidence
 
 - `raw/2026-06-02-legacy-foundation-curation.md`
+- `raw/2026-06-02-luminaries-religion-context-guidance.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_outline.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_raw.md`

@@ -14,11 +14,15 @@ Several accounts begin with ordinary companions drawn into a weakened hidden rea
 
 Luminary power appears to depend on restraint and inner alignment. The stronger accounts describe subtle influence over emotion, environment, perception, and charged matter rather than spectacle.
 
+Some later guidance records interpret Luminary secrecy as containment rather than mere fear of disbelief. In this reading, direct explanation of consciousness, aura, and reality influence could have turned belief into a weapon before humanity had the discipline to bear it.
+
 ## Disputed
 
 The number and composition of the first companion group remain unsettled. Older notes often mention four or five boys, but no stable names or lineages have been recorded.
 
 The role of portals, extraterrestrial radiants, and interplanetary contact remains outside the central record. These may belong to later accounts, symbolic traditions, or deprecated expansions.
+
+The religious dimension remains unsettled. Some accounts treat sacred traditions as compressed Luminary guidance; others leave religion as human response, misunderstanding, or later corruption of older symbols.
 
 ## Source Evidence
 
@@ -27,3 +31,4 @@ The role of portals, extraterrestrial radiants, and interplanetary contact remai
 - `archive/legacy-before-restart-2026-06-02/Plot_outline.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_raw.md`
 - `raw/2026-06-02-legacy-foundation-curation.md`
+- `raw/2026-06-02-luminaries-religion-context-guidance.md`
