@@ -6,11 +6,11 @@ NovaSaga is a novel-writing and worldbuilding project about ordinary human respo
 
 - `wiki/CorePremise.md` defines the accepted and provisional story foundation.
 - `wiki/Themes.md` tracks the emotional and philosophical anchors.
-- `wiki/World/README.md` holds the grounded setting layer: collapse, communities, hidden realms, and sanctuaries.
-- `wiki/Cosmology/README.md` holds the energy, aura, belief, and cosmic-event rules.
-- `wiki/Factions/README.md` tracks Luminaries, dark beings, and other groups.
-- `wiki/Events/README.md` tracks the Book 1 candidate arc and major historical events.
-- `wiki/Artifacts/README.md` tracks objects that amplify or preserve energy.
+- `wiki/World.md` holds the grounded setting layer: collapse, communities, hidden realms, and sanctuaries.
+- `wiki/Cosmology.md` holds the energy, aura, belief, and cosmic-event rules.
+- `wiki/Factions.md` tracks Luminaries, dark beings, and other groups.
+- `wiki/Events.md` tracks the Book 1 candidate arc and major historical events.
+- `wiki/Artifacts.md` tracks objects that amplify or preserve energy.
 - `wiki/OpenQuestions.md` is the current decision queue.
 
 ## Current Continuity Status

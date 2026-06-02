@@ -95,4 +95,6 @@ During the clean restart, favor durable foundations:
 - Book 1 candidate arc;
 - current open questions.
 
+Use unique wiki note names such as `World.md`, `Factions.md`, and `Events.md`. Do not create category pages as `README.md`, because Obsidian graph view displays file names and repeated README nodes make the mobile graph hard to read.
+
 Do not build a full encyclopedia until the user settles the direction.

@@ -39,6 +39,7 @@ The active wiki should help agents reason about story direction. It should not p
 - Do not bulk-copy legacy files into active wiki.
 - Do not treat legacy generated content as final truth.
 - Do not create many empty pages just because a folder exists.
+- Do not create `README.md` category nodes inside `wiki/`; use readable note names like `World.md` and `Characters.md` so Obsidian graph labels stay useful.
 
 ## Preferred Output For Wiki Tasks
 

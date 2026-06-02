@@ -36,12 +36,12 @@ Inspect at minimum:
 - `wiki/CorePremise.md`
 - `wiki/Themes.md`
 - `wiki/OpenQuestions.md`
-- `wiki/Cosmology/README.md`
-- `wiki/Factions/README.md`
-- `wiki/Artifacts/README.md`
-- `wiki/Events/README.md`
-- `wiki/World/README.md`
-- `wiki/Characters/README.md`
+- `wiki/Cosmology.md`
+- `wiki/Factions.md`
+- `wiki/Artifacts.md`
+- `wiki/Events.md`
+- `wiki/World.md`
+- `wiki/Characters.md`
 - `archive/legacy-before-restart-2026-06-02/Core concepts.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_raw.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_outline.md`
@@ -57,11 +57,11 @@ Perform only the foundation pass:
 3. Expand `wiki/CorePremise.md` using only the strongest story-level premise points.
 4. Expand `wiki/OpenQuestions.md` with unresolved choices instead of forcing final answers.
 5. Add short, clearly labeled sections to:
-   - `wiki/Cosmology/README.md`
-   - `wiki/Factions/README.md`
-   - `wiki/Artifacts/README.md`
-   - `wiki/Events/README.md`
-   - `wiki/World/README.md`
+   - `wiki/Cosmology.md`
+   - `wiki/Factions.md`
+   - `wiki/Artifacts.md`
+   - `wiki/Events.md`
+   - `wiki/World.md`
    - `wiki/Themes.md`
 6. Leave `drafts/` untouched.
 7. Leave `archive/` untouched.

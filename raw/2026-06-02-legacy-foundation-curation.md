@@ -32,4 +32,4 @@ NovaSaga was reset into a clean active structure. The archive preserves older ge
 
 ## Suggested wiki integration
 
-- Update `wiki/Home.md`, `wiki/CorePremise.md`, `wiki/Themes.md`, `wiki/World/README.md`, `wiki/Cosmology/README.md`, `wiki/Factions/README.md`, `wiki/Events/README.md`, `wiki/Artifacts/README.md`, and `wiki/OpenQuestions.md`.
+- Update `wiki/Home.md`, `wiki/CorePremise.md`, `wiki/Themes.md`, `wiki/World.md`, `wiki/Cosmology.md`, `wiki/Factions.md`, `wiki/Events.md`, `wiki/Artifacts.md`, and `wiki/OpenQuestions.md`.

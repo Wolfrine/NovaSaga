@@ -33,4 +33,5 @@ If the current Codex runtime does not auto-discover repo-local skills, open that
 - Use inline wiki-style links inside natural sentences where they help reasoning.
 - Keep technical, GitHub, and Codex setup details out of the creative wiki except when a wiki source note needs attribution.
 - Keep archive references in `Source notes` sections or raw notes; do not paste large legacy sections into active wiki.
+- Inside `wiki/`, prefer readable file names over `README.md` index files so Obsidian graph view remains usable on mobile.
 - For wiki, raw-note, skill, or workflow updates intended for the user's mobile Obsidian sync, commit on `main` and push to `origin/main` unless the user explicitly asks to leave changes local.
