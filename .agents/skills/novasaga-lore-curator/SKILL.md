@@ -34,15 +34,9 @@ Use these labels internally whenever a claim could affect continuity:
 
 If a source is unclear, mark the idea `Candidate` or `Open question`; do not upgrade it to `Canon`.
 
-In active wiki pages, translate those project labels into lore-record labels:
+Do not use status labels as normal headings in active wiki pages. `Canon`, `Provisional`, `Candidate`, `Known`, `Suspected`, `Disputed`, and `Unresolved` are curator bookkeeping, not the natural voice of the lore record.
 
-- `Known`: stable record; maps roughly to canon.
-- `Suspected`: repeated or useful account, but not settled.
-- `Disputed`: conflicting accounts or terminology.
-- `Unresolved`: an open phenomenon, missing lineage, unclear cause, or undecided account.
-- `Rejected / Archive-only`: preserved outside active lore unless the user asks.
-
-Avoid letting `Canon`, `Provisional`, or `Candidate` dominate active wiki pages. Those are curator judgments, not the natural voice of the lore record.
+Active wiki pages should use story-world headings such as `The Luminary Method`, `Concealment as Containment`, `Places That Remember`, `Older Names`, or `Unsettled Accounts`. Preserve uncertainty through natural phrasing: "records disagree", "the scope remains unclear", "no reliable account yet explains", or "older variants preserve".
 
 ## Lore Record Tone
 
@@ -81,7 +75,7 @@ The active wiki should sound like a clear archivist's record, not a marketing pa
 8. Add source references to the page section that used the material.
 9. Update `raw/CURATION_LEDGER.md` so every current raw file has a status, last curated commit if known or `TBD`, target wiki pages, and notes.
 10. Update `wiki/Home.md` only when the project map materially changes.
-11. Preserve uncertainty and contradictions, but only mark uncertainty where the source itself is uncertain or conflicts with another active record.
+11. Preserve uncertainty and contradictions in natural lore language, but only where the source itself is uncertain or conflicts with another active record.
 12. Keep prose drafts and long legacy passages out of the active wiki.
 13. Rewrite planning-language findings into lore-record language before saving active wiki pages.
 
@@ -93,7 +87,8 @@ Do:
 
 - keep the central idea together when splitting it would weaken its force;
 - preserve causal chains, metaphors, and stated reasons when they are the point of the note;
-- mark only the source's own questions as uncertain;
+- keep certainty labels out of active wiki headings and body text unless the page is a ledger or policy document;
+- phrase only the source's own questions as uncertain;
 - distinguish uncertain scope from uncertain principle.
 
 Do not:
@@ -127,7 +122,7 @@ Allowed exceptions: `wiki/Home.md` and deliberate index pages may group links, b
 A good NovaSaga wiki page:
 
 - is short enough for future agents to read quickly;
-- distinguishes known, suspected, disputed, and unresolved material;
+- reads with a clear narrative mind rather than visible status bookkeeping;
 - links important concepts inline;
 - has `Source notes` for archive or raw evidence;
 - improves future story reasoning while reading like an internal lore record.

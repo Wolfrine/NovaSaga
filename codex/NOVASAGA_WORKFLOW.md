@@ -43,7 +43,7 @@ The active wiki should help agents reason about story direction. It should not p
 2. Use the lore-curator skill to preserve the user's thought-chain and then identify durable concepts.
 3. Update existing wiki pages first.
 4. Create new wiki pages only when an idea is stable and recurring.
-5. Express active wiki status as `Known`, `Suspected`, `Disputed`, or `Unresolved`, but do not soften or downgrade the user's core intent unless the raw note itself is uncertain.
+5. Keep continuity status as internal bookkeeping. Do not organize active wiki pages under `Known`, `Suspected`, `Disputed`, or `Unresolved`; use natural lore-record headings instead.
 6. Use inline wiki-style links inside natural sentences.
 7. Add source notes pointing back to `raw/` or archive files.
 8. Update `raw/CURATION_LEDGER.md` so each current raw file lists status, last curated commit if known or `TBD`, target wiki pages, and notes.
