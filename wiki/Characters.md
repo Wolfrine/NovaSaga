@@ -1,28 +1,30 @@
-# Characters
+# Persons and Lineages
 
-## Summary
+## Known
 
-Character canon is intentionally light after the restart. The active wiki should not invent profiles before the user settles the cast.
+No reliable personal names have yet been established for the first companion group.
 
-## Provisional
+The earliest companion records describe ordinary youths whose importance begins with conduct during crisis rather than inherited rank or mastered power.
 
-- Book 1 may follow a group of ordinary friends whose response to collapse and danger reveals potential for Luminary training.
-- Their early value should come from community action, loyalty, fear, courage, and moral choices before supernatural mastery.
-- A Luminary mentor may identify their potential because of how they respond to local chaos.
+## Suspected
 
-## Candidate
+The first companions may be a small group from the visible world who encounter a weakened hidden realm by accident. Their later connection to Luminary training appears tied to community service after the electricity collapse.
 
-- The group contains four or five boys.
-- One friend is captured and later transformed or corrupted by dark forces.
-- The mentor is a fading Luminary whose hope is renewed by the group.
+A Luminary mentor is suspected in the early accounts. This figure watches the companions after the hidden-realm incident and recognizes potential in their response to public disorder.
 
-## Open Questions
+## Disputed
 
-- Who are the protagonists by name, age, location, and emotional flaw?
-- Is the group all boys, mixed, or still undecided?
-- Is the captured friend arc essential or only one possible emotional engine?
+Several older accounts describe four or five boys. This remains unconfirmed.
 
-## Source Notes
+One companion may be captured and corrupted by dark forces. The event appears useful as an emotional wound, but it has not become a settled record.
+
+## Unresolved
+
+- The companions' names, ages, home region, family ties, and inner flaws remain unrecorded.
+- The mentor's name, order, and history remain unrecorded.
+- No lineage has yet been accepted for Ascendants, Luminaries, or later trainees.
+
+## Source Evidence
 
 - `archive/legacy-before-restart-2026-06-02/Plot_outline.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_raw.md`

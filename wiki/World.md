@@ -1,27 +1,24 @@
-# World
+# The Visible World and Hidden Places
 
-## Summary
+## Known
 
-The visible world begins close to ordinary reality, then fractures after a [[Events|global electricity collapse]]. Hidden Luminary sanctuaries and realms become relevant because their protections weaken during the same crisis.
+The visible world begins close to ordinary reality, then changes after the [[Events|Event]] disrupts electricity. Communities face fear, scarcity, broken order, and the need for local service before any wider restoration can be understood.
 
-## Canon
+Hidden realms and sanctuaries exist beyond ordinary perception. Their protections are normally sufficient to keep them concealed from common sight and modern instruments.
 
-- Hidden realms or sanctuaries exist and are normally concealed from ordinary perception.
-- The visible world suffers a major electricity disruption tied to a rare larger event.
-- The story should show societal adaptation, community service, fear, scarcity, and local leadership rather than jumping only to mystical spectacle.
+## Suspected
 
-## Provisional
+The Event weakens some hidden barriers, allowing accidental passage into places that were not meant to be found. One strong account places this first passage along a river during storm and flood.
 
-- A hidden realm can be entered accidentally when its barrier is weakened.
-- Some hidden cities or sanctuaries may blend advanced natural design, spiritual practice, and energy-based infrastructure.
-- The first contact with the hidden world may happen through a river, storm, and sanctuary attack.
+Some sanctuaries preserve advanced natural design: gardens, libraries, training grounds, living architecture, and forms of energy use that do not depend on ordinary electricity.
 
-## Candidate
+## Disputed
 
-- Hidden Luminary cities have organic architecture, training centers, libraries, gardens, and sustainable transport.
-- Portal-adjacent facilities, training centers, and rest areas exist near major realm crossings.
+The records disagree on whether hidden cities are physical places, shifted spaces, concealed valleys, or a mixture of all three.
 
-## Source Notes
+Portal-adjacent facilities, rest houses, and training centers appear in older accounts, but their place in the central chronology remains uncertain.
+
+## Source Evidence
 
 - `archive/legacy-before-restart-2026-06-02/Lore and Chronicles/Hidden_Realm/Cities.md`
 - `archive/legacy-before-restart-2026-06-02/Lore and Chronicles/Hidden_Realm/Portals.md`

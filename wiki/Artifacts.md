@@ -1,28 +1,28 @@
-# Artifacts
+# Charged Objects and Relics
 
-## Summary
+## Known
 
-Artifacts are legacy-supported objects that can store, amplify, or transmit energy. They should be rare and consequential rather than easy tools.
+The records preserve the existence of objects that hold, amplify, or transmit energy. Their usefulness depends on more than physical form; intention, emotional state, and alignment appear to matter.
 
-## Provisional
+## Suspected
 
-- Artifacts can be energized by Luminaries or hold accumulated impressions.
-- Their effect depends partly on the holder's intent, emotional state, and energy alignment.
-- In positive hands, an artifact may heal, protect, stabilize, or amplify balance.
-- In corrupted hands, an artifact may spread fear, decay, manipulation, or imbalance.
+Some artifacts are energized by Luminaries. Others may gather impressions slowly through contact, ritual, suffering, devotion, or repeated use.
 
-## Candidate
+In balanced hands, a charged object may stabilize, heal, protect, or amplify positive resonance. In corrupted hands, the same class of object may spread fear, decay, manipulation, or imbalance.
 
-- Specific amulets, suits, portal aids, and saint-like relic stones exist.
-- Some artifacts are required for portal travel or final-war strategy.
+## Disputed
 
-## Open Questions
+Specific amulets, portal suits, travel aids, and saint-like relic stones are preserved in older accounts but have not entered the settled record.
 
-- Are artifacts central to Book 1 or mainly worldbuilding texture?
-- How rare should they be?
-- Can ordinary humans use them, or only trained/sensitive people?
+Some accounts make artifacts central to travel and final-war strategy. Others treat them as rare supports rather than the core of the conflict.
 
-## Source Notes
+## Unresolved
+
+- Whether ordinary humans can use artifacts without training remains unknown.
+- The proper test for safe handling remains unknown.
+- The rarity of artifacts has not been fixed.
+
+## Source Evidence
 
 - `archive/legacy-before-restart-2026-06-02/Core concepts.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_raw.md`

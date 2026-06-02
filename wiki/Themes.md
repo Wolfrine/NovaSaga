@@ -1,38 +1,26 @@
-# Themes
+# Recurring Laws and Motifs
 
-## Summary
+## Known
 
-NovaSaga's durable themes should keep the hidden-world scale grounded in human emotion. The story is strongest when [[Factions|Luminaries]] and dark forces reveal choices ordinary people were already making.
+Human choice is treated as a force in the world. The accounts do not place all agency in Luminaries or dark beings; ordinary actions can strengthen balance or deepen corruption.
 
-## Current Theme Anchors
+Subtlety is repeatedly favored over spectacle. The [[Factions|Luminaries]] act through restraint, timing, discipline, compassion, and environmental awareness.
 
-### Human responsibility
+Balance is not the same as victory. The older records frame the central struggle as restoration without domination.
 
-`Canon`: Human beings are not just saved or corrupted by higher powers. Their choices create positive or negative influence in the world.
+## Suspected
 
-### Subtlety over spectacle
+Belief and perception may affect what hidden forces can do openly. This may explain why Luminaries remain concealed and why public displays of power are rare or dangerous.
 
-`Canon`: Luminaries should not feel like overpowered superheroes. Their influence works best through restraint, discipline, compassion, and timing.
+Darkness is not always described as pure evil. Some records treat dark beings as corrupted, wounded, or transformed human forms, leaving open the possibility of binding, healing, or recovery.
 
-### Belief, perception, and reality
+## Unresolved
 
-`Provisional`: Disbelief may weaken or limit open displays of Luminary influence, which helps explain why the hidden world remains concealed.
+No stable record yet determines how openly the accounts should address divinity, belief, or the possibility that Luminaries influenced older religious traditions.
 
-### Balance rather than domination
+The balance between scientific language and mystical language remains unsettled in the energy system.
 
-`Canon`: The central conflict is not just victory over an enemy. It is a struggle to restore balance without replacing human agency.
-
-### Darkness as corruption and tragedy
-
-`Provisional`: Dark beings should not be treated as flat evil. Their connection to negative energy, despair, and corrupted humanity should leave room for tragedy, healing, or moral tension.
-
-## Open Style Questions
-
-- How explicitly should the story discuss belief and divinity?
-- How much should the energy system feel scientific versus mystical?
-- How dark should the post-collapse world become before hope re-enters?
-
-## Source Notes
+## Source Evidence
 
 - `archive/legacy-before-restart-2026-06-02/Core concepts.md`
 - `archive/legacy-before-restart-2026-06-02/Novel_shaping.md`

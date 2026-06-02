@@ -1,28 +1,42 @@
-# Open Questions
+# Disputed and Unresolved Records
 
-## Highest-Priority Story Decisions
+## The Event
 
-- What is the exact Book 1 promise: survival after collapse, discovery of hidden realms, Luminary training, or war against dark forces?
-- Who are the protagonists, and should the legacy "four or five boys" setup remain?
-- Is the electricity collapse permanent, long-term, regional, or partly reversible?
-- How grounded should the post-collapse social world be before the mystical layer expands?
-- Are Luminaries the final term, or should Ascendants/Radiant Luminaries become separate historical or formal names?
+- **Unresolved:** Whether the electricity collapse is permanent, long-term, regional, or partly reversible.
+- **Disputed:** Whether the Event follows a 3000-year cycle.
+- **Unresolved:** Whether the cause is cosmic, planetary, metaphysical, material, or a convergence of several forces.
 
-## Worldbuilding Decisions
+## The First Companions
 
-- How scientific should aura, frequency, and resonance language feel?
-- Does disbelief literally weaken powers, or is it a social concealment rule?
-- Are dark beings corrupted humans, separate entities, or both?
-- Can dark beings be healed consistently, or only in rare cases?
-- Are portals and extraterrestrial radiants part of Book 1, later books, or deprecated legacy material?
+- **Unresolved:** Names, ages, home region, social background, and family ties.
+- **Disputed:** Whether the first group contains four boys, five boys, or another composition.
+- **Suspected:** Their first importance lies in community conduct after collapse, not in inherited power.
+- **Disputed:** Whether one companion is captured and corrupted by dark forces.
 
-## Craft Decisions
+## Luminary Terminology
 
-- Should the story stay close to a small protagonist group or become multi-POV early?
-- How much moral ambiguity should Luminary secrecy carry?
-- Should the captured friend transformation remain the main emotional wound?
+- **Disputed:** Whether Ascendants, Radiant Luminaries, and Luminaries are separate groups, historical stages, titles, or variant names.
+- **Unresolved:** Whether city, village, field, and research Luminaries are formal categories or rough archive classifications.
 
-## Source Notes
+## Dark Beings
+
+- **Unresolved:** Whether dark beings are corrupted humans, separate entities, or both.
+- **Suspected:** At least some dark beings may be healable or bindable rather than only destroyable.
+- **Disputed:** How much tragedy, guilt, or agency remains in corrupted forms.
+
+## Cosmology
+
+- **Unresolved:** Whether disbelief literally weakens powers or only forces secrecy.
+- **Unresolved:** How much scientific language should remain around aura, frequency, resonance, and energy.
+- **Disputed:** Whether Luminaries influenced human ideas of divinity.
+
+## Portals and Wider Worlds
+
+- **Disputed:** Whether portals belong to the central record, later histories, or archive-only expansion.
+- **Disputed:** Whether extraterrestrial radiants exist as allies, symbolic accounts, or discarded terminology.
+- **Unresolved:** Whether later histories extend beyond Earth.
+
+## Source Evidence
 
 - `raw/2026-06-02-legacy-foundation-curation.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_outline.md`

@@ -1,32 +1,26 @@
-# Factions
+# Orders and Hostile Forms
 
-## Summary
+## Known
 
-NovaSaga currently has two durable opposing forces: Luminaries who protect balance through subtle influence, and dark beings or dark forces that exploit [[Cosmology|negative energy]], despair, corruption, and imbalance.
+The Luminaries are a hidden order or tradition concerned with balance, perception, and restrained intervention. Their knowledge is linked to consciousness, aura, resonance, and the quiet protection of both human settlements and hidden places.
 
-## Canon
+Dark forces oppose this balance. They are associated with [[Cosmology|negative energy]], despair, fear, corruption, and decay.
 
-### Luminaries
+## Suspected
 
-Luminaries are hidden guardians or inheritors of an older tradition connected to consciousness, aura, resonance, and balance. They should be wise and restrained rather than flashy.
+Ascendants may be the older name for the ancient discoverers or predecessors of the Luminaries. Radiant Luminaries may be a later formal name, a title, or a poetic variant.
 
-### Dark forces
+Luminaries may be few in the present age, regionally dispersed, and forced into humble visible-world roles such as healers, teachers, counselors, scholars, or quiet observers.
 
-Dark forces are connected to negative energy, corruption, fear, anger, and decay. They threaten both hidden realms and ordinary communities.
+Dark beings may not be wholly separate from humanity. Some records describe them as corrupted human forms that can be weakened, bound, or healed rather than destroyed.
 
-## Provisional
+## Disputed
 
-- Ancient Ascendants may be predecessors of modern Luminaries.
-- Luminaries may be few, fading, regionally dispersed, and forced to live quietly.
-- Dark beings may be corrupted humans or entities that can sometimes be healed rather than destroyed.
-- Luminary decision-making may favor consensus, empathy, and restraint over hierarchy.
+The known Luminary categories may include city, village, field, and research forms. These categories remain useful but unconfirmed.
 
-## Candidate
+Extraterrestrial radiants appear in portal accounts. Their existence, terminology, and relation to Luminaries remain disputed.
 
-- City Luminaries, Village Luminaries, Field Luminaries, and Research Luminaries are possible internal categories.
-- Extraterrestrial radiants may be a separate allied faction connected to portals.
-
-## Source Notes
+## Source Evidence
 
 - `archive/legacy-before-restart-2026-06-02/Core concepts.md`
 - `archive/legacy-before-restart-2026-06-02/Lore and Chronicles/Superhumans/1. Superhumans overview.md`

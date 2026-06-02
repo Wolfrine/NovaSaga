@@ -1,27 +1,28 @@
-# NovaSaga Wiki Home
+# NovaSaga Lore Index
 
-NovaSaga is a novel-writing and worldbuilding project about ordinary human responsibility under extraordinary hidden pressures. The current active direction centers on a [[Events|global electricity collapse]] that exposes a concealed conflict involving [[Factions|Luminaries]], dark forces, hidden realms, and the question of whether humanity can choose balance without being dominated by powers it does not understand.
+This index gathers the active records concerning the world after the [[Events|Event]], the hidden orders known as [[Factions|Luminaries]], and the darker forms that answer to fear, decay, and imbalance.
 
-## Current Map
+## Record Map
 
-- `wiki/CorePremise.md` defines the accepted and provisional story foundation.
-- `wiki/Themes.md` tracks the emotional and philosophical anchors.
-- `wiki/World.md` holds the grounded setting layer: collapse, communities, hidden realms, and sanctuaries.
-- `wiki/Cosmology.md` holds the energy, aura, belief, and cosmic-event rules.
-- `wiki/Factions.md` tracks Luminaries, dark beings, and other groups.
-- `wiki/Events.md` tracks the Book 1 candidate arc and major historical events.
-- `wiki/Artifacts.md` tracks objects that amplify or preserve energy.
-- `wiki/OpenQuestions.md` is the current decision queue.
+- [[CorePremise|The Central Record]] preserves the present account of the Event, the hidden conflict, and the ordinary lives caught between them.
+- [[World]] records the visible world, hidden sanctuaries, and the changed conditions after the loss of electricity.
+- [[Cosmology]] records aura, resonance, belief, and the forces that older accounts say bind mind, matter, and environment.
+- [[Factions]] records known orders, hostile forms, and disputed classifications.
+- [[Events]] records the current chronology, including the Event and the first hidden-realm breach.
+- [[Artifacts]] records charged objects, relics, and disputed tools of passage or amplification.
+- [[Characters]] records known or suspected persons and groups. Most names remain absent from reliable accounts.
+- [[Themes]] records recurring laws and moral patterns observed across the accounts.
+- [[OpenQuestions]] records unresolved phenomena, conflicting traditions, and decisions still lacking a stable account.
 
-## Current Continuity Status
+## Current Reading
 
-`Canon`: NovaSaga has a hidden-world fantasy foundation tied to Luminaries, dark forces, and a major electricity-disrupting event.
+Known records agree that a concealed tradition of Luminaries exists, that a large electricity-disrupting Event alters the visible world, and that dark forces use fear, corruption, and negative resonance against both ordinary settlements and hidden places.
 
-`Provisional`: Book 1 may follow a group of boys pulled into the hidden realm during a crisis, then drawn into Luminary training and a larger conflict.
+Suspected records place the first major encounter near a storm-driven river incident, where ordinary companions enter a weakened sanctuary and later become entangled with Luminary training.
 
-`Candidate`: portals, extraterrestrial radiants, detailed ability levels, and a future interplanetary expansion remain legacy ideas, not accepted direction.
+Disputed records concern portals, extraterrestrial radiants, detailed ability names, the exact number and nature of the companions, and whether later histories extend beyond Earth.
 
-## Source Notes
+## Source Evidence
 
 - `raw/2026-06-02-legacy-foundation-curation.md`
 - `archive/legacy-before-restart-2026-06-02/README.md`

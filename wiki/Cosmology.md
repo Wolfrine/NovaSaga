@@ -1,30 +1,30 @@
-# Cosmology
+# Aura, Resonance, and the Unseen Order
 
-## Summary
+## Known
 
-NovaSaga's cosmology currently links consciousness, aura, emotion, energy resonance, belief, and environmental balance. The system should remain story-facing until the user decides how technical it should become.
+Living beings carry or emit an energetic and emotional signature. Older accounts call this aura, resonance, frequency, or energy according to context.
 
-## Canon
+Luminary practice begins with perception and self-regulation. Power is not treated as a simple weapon but as disciplined relation between mind, emotion, body, environment, and matter.
 
-- Living beings emit or carry an energetic/emotional signature.
-- Luminary abilities are tied to perception, discipline, emotion, and resonance.
-- Negative emotional or environmental energy can accumulate and affect people, places, and conflict.
+Negative emotional or environmental energy can accumulate. Such accumulation affects people, places, artifacts, and the strength of dark forces.
 
-## Provisional
+## Suspected
 
-- Disbelief may weaken public displays of Luminary influence.
-- Objects can hold or absorb traces of aura, creating the basis for artifacts and residual impressions.
-- Training begins with sensing and regulating one's own energy before influencing external objects or environments.
-- Places of intense emotion may retain impressions that sensitive people can perceive.
+Objects may hold traces of contact, intention, or aura. This would explain relics, residual impressions, and places that feel haunted or charged after intense events.
 
-## Candidate
+Disbelief may limit open Luminary action. The mechanism remains unclear: it may be metaphysical, psychological, social, or all three.
 
-- Named ability levels such as Aura Whisper, Thermal Drift, Cellular Chorus, and Harmonic Convergence.
-- Portals controlled by extraterrestrial radiants.
-- Interplanetary beings and later space-facing expansion.
-- The idea that Luminaries influenced concepts of divinity in human culture.
+Training appears to begin with sensing one's own field before influencing external objects, weather, emotion, or living systems.
 
-## Source Notes
+## Disputed
+
+Named ability ladders such as Aura Whisper, Thermal Drift, Cellular Chorus, and Harmonic Convergence survive in older notes. They are not yet accepted as formal terminology.
+
+Portals controlled by extraterrestrial radiants remain outside the settled cosmology.
+
+The claim that Luminaries shaped human ideas of divinity is preserved as a disputed tradition.
+
+## Source Evidence
 
 - `archive/legacy-before-restart-2026-06-02/Core concepts.md`
 - `archive/legacy-before-restart-2026-06-02/Lore and Chronicles/Superhumans/4. Concepts on energy control.md`
