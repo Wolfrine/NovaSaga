@@ -4,7 +4,7 @@
 
 NovaSaga is a first-class novel-writing and worldbuilding workspace at `F:\Workspace\NovaSaga`.
 
-The active wiki is a compact, interlinked knowledge graph for story thinking. It is not a dumping ground for old notes, draft prose, GitHub setup details, or product planning.
+The active wiki is a compact, interlinked body of lore records for story thinking. It is not a dumping ground for old notes, draft prose, GitHub setup details, or product planning.
 
 ## Required Local Skill
 
@@ -14,9 +14,17 @@ For lore, canon, wiki, raw-note, or worldbuilding curation tasks, use the repo-l
 
 If the current Codex runtime does not auto-discover repo-local skills, open that file manually before editing `wiki/`.
 
+Repo-local prompt wrapper, when supported by the current Codex client:
+
+`/novasaga-curate`
+
+Prompt file:
+
+`F:\Workspace\NovaSaga\.codex\prompts\novasaga-curate.md`
+
 ## Repository Roles
 
-- `wiki/` contains refined, linked story knowledge: canon, provisional ideas, unresolved questions, themes, world rules, characters, factions, events, cosmology, and artifacts.
+- `wiki/` contains refined, linked lore records: known, suspected, disputed, and unresolved accounts about themes, world rules, characters, factions, events, cosmology, and artifacts.
 - `raw/` contains source notes, summaries, imports, and rough thinking. Raw notes are source material, not final wiki pages.
 - `archive/legacy-before-restart-2026-06-02/` preserves pre-restart material. Do not delete it and do not blindly restore it into active wiki.
 - `drafts/` contains prose drafts. Do not rewrite prose drafts unless the user explicitly asks.

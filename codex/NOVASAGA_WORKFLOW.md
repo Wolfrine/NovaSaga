@@ -11,6 +11,22 @@ This file defines how Codex agents should work inside NovaSaga during the clean 
 3. Read `meta/CanonPolicy.md`.
 4. Read `wiki/Home.md` before editing any other wiki page.
 
+## Slash Prompt
+
+When the current Codex client supports repo-local prompts, use:
+
+```text
+/novasaga-curate
+```
+
+The wrapper lives at `.codex/prompts/novasaga-curate.md` and delegates to the `novasaga-lore-curator` skill. If it does not appear in a session, use:
+
+```text
+/use novasaga-lore-curator
+```
+
+or explicitly ask Codex to use the skill.
+
 ## Operating Model
 
 NovaSaga uses a project-specific LLM wiki workflow adapted from PTI's raw-to-wiki model:
