@@ -6,7 +6,7 @@ This page keeps open matters in one place so the other records can read cleanly.
 
 - Is the electricity collapse permanent, long-term, regional, or partly reversible?
 - Does the Event follow a 3000-year cycle, or is that only an inherited fragment from older accounts?
-- Is the cause cosmic, planetary, metaphysical, material, or a convergence of several forces?
+- What exactly is the cosmic disturbance that changes metal properties and halts electric currents?
 
 ## The First Companions
 
@@ -21,7 +21,7 @@ This page keeps open matters in one place so the other records can read cleanly.
 
 ## Dark Beings
 
-- Are dark beings corrupted humans, separate entities, or both?
+- Are all dark beings corrupted humans, or do separate entities exist beside corrupted human forms?
 - How much tragedy, guilt, or agency remains in corrupted forms?
 - Can corrupted belief or misused reverence feed existing dark beings, draw them closer, create new ones, or only weaken communities?
 
@@ -30,6 +30,7 @@ This page keeps open matters in one place so the other records can read cleanly.
 - Does disbelief literally weaken powers, or does it only force secrecy?
 - How much scientific language should remain around aura, frequency, resonance, and energy?
 - How exactly do disbelief, fear, reverence, and collective attention interact with the unseen order?
+- Which inherited ability names are formal Luminary terms, which are training shorthand, and which should remain archive-only?
 
 ## Sacred Traditions
 
@@ -49,5 +50,6 @@ This page keeps open matters in one place so the other records can read cleanly.
 
 - `raw/2026-06-02-legacy-foundation-curation.md`
 - `raw/2026-06-02-luminaries-religion-context-guidance.md`
+- `raw/archive-import/legacy-before-restart-2026-06-02/Core concepts.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_outline.md`
 - `archive/legacy-before-restart-2026-06-02/Plot_raw.md`

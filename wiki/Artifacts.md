@@ -4,7 +4,9 @@
 
 The records preserve objects that hold, amplify, or transmit energy. Their usefulness depends on more than physical form; intention, emotional state, and alignment appear to matter.
 
-Some artifacts are energized by Luminaries. Others gather impressions slowly through contact, ritual, suffering, devotion, or repeated use.
+Some artifacts are energized by Luminaries to amplify the holder's innate field. Others gather impressions slowly through contact, ritual, suffering, devotion, or repeated use.
+
+They are not easy prizes. The foundation record treats them as hidden and difficult to detect except by those attuned to their energy. Acquisition without readiness carries consequence, because the object amplifies what the holder brings to it.
 
 ## Relics and Sacred Forms
 
@@ -32,3 +34,4 @@ Ordinary human use, safe handling, rarity, and the proper test for a charged obj
 - `archive/legacy-before-restart-2026-06-02/Plot_raw.md`
 - `archive/legacy-before-restart-2026-06-02/Lore and Chronicles/Hidden_Realm/Portals.md`
 - `raw/2026-06-02-luminaries-religion-context-guidance.md`
+- `raw/archive-import/legacy-before-restart-2026-06-02/Core concepts.md`

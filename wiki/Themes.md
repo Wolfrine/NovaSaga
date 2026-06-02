@@ -4,6 +4,8 @@
 
 Human choice is treated as a force in the world. The accounts do not place all agency in [[Factions|Luminaries]] or dark beings; ordinary actions can strengthen balance or deepen corruption.
 
+The true power in the foundation record is human potential. Luminaries guide, restrain, warn, and repair, but humans remain the agents whose choices decide whether the world bends toward recovery or decay.
+
 Belief and perception affect how hidden forces can be approached, resisted, distorted, or misused. This is one reason public displays of power are rare and dangerous.
 
 ## Indirect Guidance
@@ -16,11 +18,15 @@ Religion, in this record, is not simply falsehood or deception. Sacred forms can
 
 Subtlety is repeatedly favored over spectacle. The Luminaries act through restraint, timing, discipline, compassion, and environmental awareness.
 
+The accounts repeatedly resist easy grandeur. Powers are strongest when they appear as wisdom, listening, healing, small redirections, and emotional steadiness under pressure.
+
 Balance is not the same as victory. The older records frame the central struggle as restoration without domination.
 
 ## Darkness and Recovery
 
 Darkness is not always described as pure evil. Some records treat dark beings as corrupted, wounded, or transformed human forms, leaving open the possibility of binding, healing, or recovery.
+
+Healing over destruction is therefore a recurring moral law. To preserve human essence inside corruption is harder than killing a hostile form, but it better fits the Luminary charge of balance.
 
 Dogma appears as a possible degraded form of symbolic guidance: a path that once restrained and oriented the mind, later hardened into control, hierarchy, or fear. Other accounts leave dogma as ordinary human corruption rather than Luminary failure.
 
@@ -39,3 +45,4 @@ It remains unclear whether corrupted belief can produce dark beings directly, we
 - `archive/legacy-before-restart-2026-06-02/Plot_raw.md`
 - `meta/ToneAndStyle.md`
 - `raw/2026-06-02-luminaries-religion-context-guidance.md`
+- `raw/archive-import/legacy-before-restart-2026-06-02/Core concepts.md`
